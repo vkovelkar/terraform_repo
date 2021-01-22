@@ -1,7 +1,7 @@
 provider "aws" {
   region = "us-east-1"
 
-  // Assign the profile name here!
+  // Assign the profile name  lets here!
   profile = "default"
 }
 
